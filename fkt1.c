@@ -1,2 +1,2 @@
-fkt1.c
-    änderung 17 : 27
+// fkt1.c
+// änderung 17 : 27
